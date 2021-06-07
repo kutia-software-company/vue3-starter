@@ -11,7 +11,7 @@ The project is helpful to start your next project, as it provides a lot of the c
 - Pre-configured with CSS-in-JS styling.
 - Pre-configured with code quality tools: ESLint, Prettier, TypeScript, Jest, etc.
 - Basic tests included.
-- (Admin Kit)[https://github.com/adminkit/adminkit] included.
+- [Admin Kit](https://github.com/adminkit/adminkit) included.
 
 ### Directory Structure
 
