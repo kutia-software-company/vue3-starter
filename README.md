@@ -1,11 +1,3 @@
-### Installation
-
-```console
-npm install
-cp .env.example .env
-npm run serve
-```
-
 # Vue 3 Starter
 
 This is a starter project for [Vue Js](https://vuejs.org/).
