@@ -8,6 +8,8 @@ The project is helpful to start your next project, as it provides a lot of the c
 
 - TypeScript Included.
 - Vue Router Included.
+- Vuex.
+- Bootstrap 5.
 - Modules/Components organized across folders.
 - Base pages (like Dashboard/404 etc).
 - Pre-configured with code quality tools: ESLint, Prettier, TypeScript, Jest, etc.
