@@ -56,7 +56,7 @@ The project is helpful to start your next project, as it provides a lot of the c
 ### Related Projects
 
 - [Node.js TypeScript API Starter](https://github.com/kutia-software-company/express-typescript-starter).
-- [Node.js TypeScript API Starter](https://github.com/kutia-software-company/react-js-starter).
+- [React js TypeScript Starter](https://github.com/kutia-software-company/react-js-starter).
 
 ### License
 
