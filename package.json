@@ -56,7 +56,9 @@
     "parserOptions": {
       "ecmaVersion": 2020
     },
-    "rules": {},
+    "rules": {
+      "prettier/prettier": "error"
+    },
     "overrides": [
       {
         "files": [
