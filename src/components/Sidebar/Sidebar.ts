@@ -1,8 +1,8 @@
-import { Options, Vue } from "vue-class-component";
+import { Options, Vue } from 'vue-class-component';
 
 @Options({
-  name: "SidebarComponent",
+    name: 'SidebarComponent',
 })
 export default class Sidebar extends Vue {
-  public appName = process.env.VUE_APP_NAME;
+    public appName = process.env.VUE_APP_NAME;
 }

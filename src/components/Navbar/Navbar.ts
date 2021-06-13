@@ -1,6 +1,6 @@
-import { Options, Vue } from "vue-class-component";
+import { Options, Vue } from 'vue-class-component';
 
 @Options({
-  name: "NavbarComponent",
+    name: 'NavbarComponent',
 })
 export default class Navbar extends Vue {}
