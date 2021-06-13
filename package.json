@@ -13,7 +13,7 @@
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@popperjs/core": "^2.9.2",
     "bootstrap": "^5.0.1",
-    "vue": "^3.0.0",
+    "vue": "^3.1.1",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
@@ -25,7 +25,7 @@
     "@vue/cli-plugin-unit-jest": "~4.5.0",
     "@vue/cli-plugin-vuex": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
-    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/compiler-sfc": "^3.1.1",
     "@vue/test-utils": "^2.0.0-0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
